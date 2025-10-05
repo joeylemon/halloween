@@ -1,3 +1,5 @@
+import subprocess
+
 SOUND_FILE = "scary_sound.mp3"
 
 def play_sound():
